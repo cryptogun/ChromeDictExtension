@@ -1,0 +1,2 @@
+# ChromeDictExtension
+Chrome Dictionary Extension
